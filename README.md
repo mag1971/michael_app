@@ -1,7 +1,7 @@
+#Practice App to try out Git and Jenkins CI
 
-Practice App to try out Git and Jenkins CI
+**Git and Jenkins practice app**
 
-[*Git and Jenkins practice app*]
-by [Michael Griffiths]
+by ***Michael Griffiths***
 
 
